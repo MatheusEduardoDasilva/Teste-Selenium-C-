@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Teste Selenium.exe
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Teste Selenium.deps.json
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Teste Selenium.runtimeconfig.json
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Teste Selenium.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Teste Selenium.dll
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Teste Selenium.pdb
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.dll
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.pdb
+C:\Users\Usuario\source\repos\Teste Selenium\Teste Selenium\obj\Debug\netcoreapp3.1\Teste Selenium.genruntimeconfig.cache
